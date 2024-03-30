@@ -10,6 +10,6 @@ class Desenvolvedor extends Funcionario
   // }
 
   public function sobeDeNivel() {
-    param3
+    $this->recebeAumento($this->recuperaSalario() * 0.75);
   }
 }
