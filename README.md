@@ -1,6 +1,6 @@
-# php_05
+# php_06
 
-Projeto do curso "Orientação a Objetos com PHP: Classes, métodos e atributos" da Alura
+Projeto do curso "Avançando com Orientação a Objetos com PHP: Herança, Polimorfismo e Interfaces" da Alura
 
 ## Links
 
